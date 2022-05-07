@@ -8,7 +8,7 @@ Features:
 - Search a student information
 - Edit a student information
 
-## Inheritance Folder
+## Inheritance Test Folder
 This folder is only for testing the inheritance OOP concept which I used to apply in my project. It is an OOP concept where you can make a superclass which all of the methods and properties under this superclass will be inherited by the other class inheriting it. It is useful because it helps us in code reusability. 
 
 ## Student Information Management Folder
